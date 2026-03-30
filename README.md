@@ -1,4 +1,4 @@
-# OSS Audit — 24BOE10016
+# OSS Audit — 24BOE10006
 
 > **Open Source Software Audit** | VITyarthi | OSS NGMC Course
 
